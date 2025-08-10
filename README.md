@@ -5,8 +5,8 @@
 
 <h1 align="center"> Research Scholar
 <h3 align="center">🔬 Researcher | 📡 Terahertz Nanoantenna Designs | 🧪 Bionanosensor Designs</h3>
+</p>
 
----
 
 <details>
 <summary>🚀 About Me</summary>
@@ -18,8 +18,8 @@
 - ✨ Dedicated to merging **healthcare** and **technology** for impactful innovations  
 
 </details>
+</p>
 
----
 
 <details>
 <summary>🛠 Skills & Tools</summary>
@@ -30,8 +30,8 @@
 **📡 Technologies:** Antenna Design, Channel Modeling, Biosensing, SPR Sensors  
 
 </details>
+</p>
 
----
 
 <details>
 <summary>📂 Featured Projects</summary>
