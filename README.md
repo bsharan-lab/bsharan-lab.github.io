@@ -18,7 +18,8 @@
 - ✨ Dedicated to merging **healthcare** and **technology** for impactful innovations  
 
 </details>
-</p>
+
+---
 
 
 <details>
@@ -30,7 +31,8 @@
 **📡 Technologies:** Antenna Design, Channel Modeling, Biosensing, SPR Sensors  
 
 </details>
-</p>
+
+---
 
 
 <details>
