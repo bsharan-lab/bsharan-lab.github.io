@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/bsharan-lab/bsharan-lab.github.io/main/Sharan.jpeg" alt="Bhagwati Sharan" width="200" style="border-radius:50%; border: 3px solid #00CED1;">
+  <img src="https://github.com/bsharan-lab/bsharan-lab.github.io/blob/main/Sharan.jpeg" alt="Bhagwati Sharan" width="200" style="border-radius:50%; border: 3px solid #00CED1;">
 </p>
 
 <h1 align="center">Hi, I'm <span style="color:#00CED1;">Bhagwati Sharan</span> 👋</h1>
