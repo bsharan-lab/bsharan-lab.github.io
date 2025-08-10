@@ -3,8 +3,8 @@
   <img src="https://github.com/bsharan-lab/bsharan-lab.github.io/blob/main/Sharan.jpeg" alt="Bhagwati Sharan" width="200" style="border-radius:50%; border: 3px solid #00CED1;">
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#00CED1;">Bhagwati Sharan</span> 👋</h1>
-<h3 align="center">🔬 Researcher | 📡 Terahertz Antenna Designer | 🧪 Biosensor Innovator</h3>
+<h1 align="center"> Research Scholar
+<h3 align="center">🔬 Researcher | 📡 Terahertz Antenna Design | 🧪 Biosensor Designs</h3>
 
 ---
 
