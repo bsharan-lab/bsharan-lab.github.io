@@ -5,7 +5,6 @@
 
 <h1 align="center"> Research Scholar
 <h3 align="center">🔬 Researcher | 📡 Terahertz Nanoantenna Designs | 🧪 Bionanosensor Designs</h3>
-</p>
   
 ---
 
