@@ -1,10 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/yourusername/yourrepo/blob/main/banner.jpg" alt="Bhagwati Sharan Banner" width="100%">
-</p>
-
-# Hi there, I'm Bhagwati Sharan 👋
-
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://github.com/yourusername/yourrepo/blob/main/profile.jpg" alt="Bhagwati Sharan" width="200" style="border-radius:50%">
