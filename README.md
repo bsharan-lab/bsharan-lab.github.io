@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"> Research Scholar
-<h3 align="center">🔬 Researcher | 📡 Terahertz Antenna Design | 🧪 Biosensor Designs</h3>
+<h3 align="center">🔬 Researcher | 📡 Terahertz Nanoantenna Designs | 🧪 Bionanosensor Designs</h3>
 
 ---
 
